@@ -2,7 +2,6 @@
 
 🎓 **Computer Engineering @ Florida Tech**  
 💻 **Software Engineering | Embedded Systems | Hardware/Software Integration**  
-🚀 Currently looking for **Software Engineering & Embedded Systems Internships**
 
 I'm a Computer Engineering student with a **3.91 GPA** who enjoys building things involving both software and hardware.
 
